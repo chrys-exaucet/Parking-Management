@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include"../../Bibliothèques/parking.h"
+#include"parking.h"
 
 int main()
 {
