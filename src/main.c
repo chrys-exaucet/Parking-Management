@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include"../../Bibliothèques/parking.h"
+#include"../../BibliothÃ¨ques/parking.h"
 
 int main()
 {
@@ -126,7 +126,7 @@ do
     scanf("%d",&reponse);
 
 
-}while(reponse==1);     // condition de continuité
+}while(reponse==1);     // condition de continuitÃ©
 
 
     return 0 ;
