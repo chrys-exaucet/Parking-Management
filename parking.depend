@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1549042175 source:c:\users\hp\onedrive\documents\bibliothèques et projetsc\bibliothèques\parking.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"parking.h"
+
+1549036274 c:\users\hp\onedrive\documents\bibliothèques et projetsc\bibliothèques\flie.h
+
+1549041793 source:c:\users\hp\onedrive\documents\bibliothèques et projetsc\parking\parking\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../../Bibliothèques/parking.h"
+
+1549041675 c:\users\hp\onedrive\documents\bibliothèques et projetsc\bibliothèques\parking.h
+
+1549042175 source:c:\users\chrys exaucet\documents\informatique\langage c\bibliothèques et projets c ingc1\bibliothèques\parking.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"parking.h"
+
+1549041675 c:\users\chrys exaucet\documents\informatique\langage c\bibliothèques et projets c ingc1\bibliothèques\parking.h
+
+1549041793 source:c:\users\chrys exaucet\documents\informatique\langage c\bibliothèques et projets c ingc1\parking\parking\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../../Bibliothèques/parking.h"
+
+1549042175 source:c:\users\chrys exaucet\documents\etudes\informatique\developpement\languages\c\bibliothèques et projets c ingc1\bibliothèques\parking.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"parking.h"
+
+1549041675 c:\users\chrys exaucet\documents\etudes\informatique\developpement\languages\c\bibliothèques et projets c ingc1\bibliothèques\parking.h
+
+1549041793 source:c:\users\chrys exaucet\documents\etudes\informatique\developpement\languages\c\bibliothèques et projets c ingc1\parking\parking\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../../Bibliothèques/parking.h"
+
