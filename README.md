@@ -1,4 +1,4 @@
-# Parkings-Management
+# Parking-Management
 IntelliPark, a C - based console app for parking cars management
 
 ## Prequisites
