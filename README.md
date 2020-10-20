@@ -1,8 +1,8 @@
 # Parking-Management
 IntelliPark, a C - based console app for parking cars management
 
-## Prequisites
-- None
+
+
 
 
 ## Demo
@@ -18,4 +18,4 @@ You can find a comprehensive demo [here](assets/)
 
 
 
-    Any trouble or insight? feel free to open an issue.
+Any trouble or insight? feel free to open an issue.
