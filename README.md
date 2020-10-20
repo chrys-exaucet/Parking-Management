@@ -6,7 +6,7 @@ IntelliPark, a C - based console app for parking cars management
 
 
 ## Demo
-You can find a comprehensive demo [here](assets/)
+You can find a comprehensive demo [here](assets/).
 
 ## Run
 - Create a project in your favourite IDE
